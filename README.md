@@ -1,2 +1,3 @@
 # Simple-Username-Password
- Program to check Username and Password validation
+ This program shows basic username/password login validation. 
+ 
